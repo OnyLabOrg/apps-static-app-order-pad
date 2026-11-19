@@ -1,6 +1,6 @@
 {
-  "name": "Order Pad",
-  "short_name": "Order Pad",
+  "name": "OrderPad",
+  "short_name": "OrderPad",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
